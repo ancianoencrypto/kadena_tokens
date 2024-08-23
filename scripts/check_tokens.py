@@ -1,10 +1,18 @@
 import yaml
 from pathlib import Path
-
+import sys
 import magic
 
-with open("../tokens.yaml") as fd:
-    data = yaml.safe_load(fd)
+try:
+    with open("../tokens.yaml") as fd:
+        data = yaml.safe_load(fd)
+except Exception as ex:
+    print("Error when parsing YAML file")
+    print(str(ex))
+    sys.exit(1)
+
+
+
 
 mainnet = data["mainnet"]
 
@@ -53,3 +61,6 @@ for token_mod, token in mainnet.items():
 
 if not failure:
     print("Token Database Valid")
+    sys.exit(0)
+else:
+    sys.exit(1)

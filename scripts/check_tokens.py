@@ -42,6 +42,10 @@ for token_mod, token in mainnet.items():
         failure = True
         print("Token {:s} - Invalid image: {!s}".format(token_name, img))
 
+    if img.stat().st_size > 100000:
+        print("Token {:s} - Image file > 100 kB: {!s}".format(token_name, img))
+        failure = True
+
     if "precision" not in token or not isinstance(token["precision"], int):
         failure = True
         print("Token {:s} - Precision invalid".format(token_name))

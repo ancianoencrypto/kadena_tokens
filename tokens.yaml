@@ -67,7 +67,7 @@ mainnet:
   free.kishu-ken:
     symbol: KISHK
     name: KISHK
-    img: img/kishk.svg
+    img: img/kishk.png
     color: #EEAA7B
     precision: 12
     socials:

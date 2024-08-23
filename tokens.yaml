@@ -171,3 +171,4 @@ blacklist:
   - lago.USD2
   - lago.kwBTC
   - lago.kwUSDC
+  - free.elon

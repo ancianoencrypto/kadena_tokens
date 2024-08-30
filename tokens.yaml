@@ -17,7 +17,7 @@ mainnet:
       - type: github
         url: https://github.com/kadena-io
 
-  arcade.token:
+  arkade.token:
     symbol: ARKD
     name: Arkade
     description:

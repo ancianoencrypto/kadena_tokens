@@ -126,6 +126,8 @@ mainnet:
     name: HERON
     description:
     img: img/heron.png
+    totalSupply: 982000000
+    circulatingSupply: 720000000
     color: "#3333ff"
     precision: 12
     socials:

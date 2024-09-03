@@ -4,7 +4,7 @@ mainnet:
     name: KDA
     description: Native token of Kadena
     img: img/kda.svg
-    color: #5dcbe5
+    color: "#5dcbe5"
     totalSupply: 1000000000
     precision: 12
     socials:
@@ -22,7 +22,7 @@ mainnet:
     name: Arkade
     description:
     img: img/ark.png
-    color: #cc66ff
+    color: "#cc66ff"
     precision: 12
     socials:
       - type: website
@@ -35,7 +35,7 @@ mainnet:
     name: MAGA
     description:
     img: img/maga.png
-    color: #EEAA7B
+    color: "#EEAA7B"
     precision: 12
     socials:
       - type: twitter
@@ -46,7 +46,7 @@ mainnet:
     name: CRKK
     description:
     img: img/crankk.png
-    color: #6eba1c
+    color: "#6eba1c"
     precision: 12
     socials:
       - type: website
@@ -67,7 +67,7 @@ mainnet:
     name: FINUX
     description:
     img: img/finux.png
-    color: #d966ff
+    color: "#d966ff"
     precision: 12
     socials: []
 
@@ -76,7 +76,7 @@ mainnet:
     name: KISHK
     description:
     img: img/kishk.png
-    color: #EEAA7B
+    color: "#EEAA7B"
     precision: 12
     socials:
       - type: twitter
@@ -87,7 +87,7 @@ mainnet:
     name: KDX
     description:
     img: img/kdx.svg
-    color: #ed1cb5
+    color: "#ed1cb5"
     totalSupply: 900699352.80
     precision: 12
     socials:
@@ -105,7 +105,7 @@ mainnet:
     name: KTOSHI
     description:
     img: img/ktoshi.png
-    color: #c9661a
+    color: "#c9661a"
     precision: 15
     socials:
       - type: website
@@ -143,7 +143,7 @@ mainnet:
     name: BRO
     description: Token of the Brother's Telegram group
     img: img/bro.png
-    color: #c9661a
+    color: "#c9661a"
     totalSupply: 100
     circulatingSupply: 80
     precision: 12
@@ -158,7 +158,7 @@ mainnet:
     name: FLUX
     description: Native token of the Flux blockchain
     img: img/flux-crypto.svg
-    color: #ffa900
+    color: "#ffa900"
     totalSupply: 440000000
     precision: 8
     socials:

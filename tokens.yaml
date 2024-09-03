@@ -35,6 +35,7 @@ mainnet:
     name: MAGA
     description:
     img: img/maga.png
+    color: #EEAA7B
     precision: 12
     socials:
       - type: twitter
@@ -86,6 +87,7 @@ mainnet:
     name: KDX
     description:
     img: img/kdx.svg
+    color: #ed1cb5
     totalSupply: 900699352.80
     precision: 12
     socials:
@@ -141,6 +143,7 @@ mainnet:
     name: BRO
     description: Token of the Brother's Telegram group
     img: img/bro.png
+    color: #c9661a
     totalSupply: 100
     circulatingSupply: 80
     precision: 12
@@ -155,6 +158,7 @@ mainnet:
     name: FLUX
     description: Native token of the Flux blockchain
     img: img/flux-crypto.svg
+    color: #ffa900
     totalSupply: 440000000
     precision: 8
     socials:

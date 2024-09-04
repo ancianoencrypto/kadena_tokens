@@ -4,7 +4,7 @@ mainnet:
     name: KDA
     description: Native token of Kadena
     img: img/kda.svg
-    color: "#5dcbe5"
+    color: "#4a9079"
     totalSupply: 1000000000
     precision: 12
     socials:
@@ -35,7 +35,7 @@ mainnet:
     name: MAGA
     description:
     img: img/maga.png
-    color: "#EEAA7B"
+    color: "#9d0b32"
     precision: 12
     socials:
       - type: twitter
@@ -46,7 +46,7 @@ mainnet:
     name: CRKK
     description:
     img: img/crankk.png
-    color: "#6eba1c"
+    color: "#7f6afc"
     precision: 12
     socials:
       - type: website
@@ -58,7 +58,7 @@ mainnet:
     name: CFLY
     description:
     img: img/cfly.svg
-    color: #e03a3f
+    color: "#1f1fc2"
     precision: 8
     socials: []
 
@@ -67,7 +67,7 @@ mainnet:
     name: FINUX
     description:
     img: img/finux.png
-    color: "#d966ff"
+    color: "#23a45c"
     precision: 12
     socials: []
 
@@ -76,7 +76,7 @@ mainnet:
     name: KISHK
     description:
     img: img/kishk.png
-    color: "#EEAA7B"
+    color: "#cbcbcc"
     precision: 12
     socials:
       - type: twitter
@@ -87,7 +87,7 @@ mainnet:
     name: KDX
     description:
     img: img/kdx.svg
-    color: "#ed1cb5"
+    color: "#ff5271"
     totalSupply: 900699352.80
     precision: 12
     socials:
@@ -105,7 +105,7 @@ mainnet:
     name: KTOSHI
     description:
     img: img/ktoshi.png
-    color: "#c9661a"
+    color: "#34daa8"
     precision: 15
     socials:
       - type: website
@@ -118,6 +118,7 @@ mainnet:
     name: zUSD
     description: Stable coin issued by Zelcore
     img: img/zUSD.svg
+    color: "#8a62eb"
     precision: 18
     socials:
       - type: website
@@ -130,7 +131,7 @@ mainnet:
     img: img/heron.png
     totalSupply: 982000000
     circulatingSupply: 720000000
-    color: "#3333ff"
+    color: "#a22726"
     precision: 12
     socials:
       - type: website
@@ -143,7 +144,7 @@ mainnet:
     name: BRO
     description: Token of the Brother's Telegram group
     img: img/bro.png
-    color: "#c9661a"
+    color: "#af826a"
     totalSupply: 100
     circulatingSupply: 80
     precision: 12
@@ -158,7 +159,7 @@ mainnet:
     name: FLUX
     description: Native token of the Flux blockchain
     img: img/flux-crypto.svg
-    color: "#ffa900"
+    color: "#2b61d1"
     totalSupply: 440000000
     precision: 8
     socials:

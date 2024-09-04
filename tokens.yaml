@@ -170,6 +170,42 @@ mainnet:
       - type: discord
         url: https://discord.gg/keVn3HDKZw
 
+  kdlaunch.token:
+    symbol: KDL
+    name: KDL
+    description: KDLaunch
+    img: img/kdl.svg
+    color: "#4aa5b1"
+    totalSupply: 100000000
+    precision: 12
+    socials:
+      - type: website
+        url: https://www.kdlaunch.com/
+      - type: twitter
+        url: https://twitter.com/KdLaunch
+      - type: telegram
+        url: https://t.me/KDLaunchOfficial
+      - type: discord
+        url: https://discord.com/invite/GghUdhmk6z
+
+  kdlaunch.kdswap-token:
+    symbol: KDS
+    name: KDS
+    description: KDSwap
+    img: img/kds.svg
+    color: "#6ebbf2"
+    totalSupply: 100000000
+    precision: 12
+    socials:
+      - type: website
+        url: https://www.kdswap.exchange/
+      - type: twitter
+        url: https://twitter.com/KDSwap
+      - type: telegram
+        url: https://t.me/KDSwapOfficial
+      - type: discord
+        url: https://discord.com/invite/GghUdhmk6z
+
 
 testnet:
   coin:

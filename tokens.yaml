@@ -85,7 +85,7 @@ mainnet:
   kaddex.kdx:
     symbol: KDX
     name: KDX
-    description:
+    description: Kaddex / Ecko Token
     img: img/kdx.svg
     color: "#ff5271"
     totalSupply: 900699352.80

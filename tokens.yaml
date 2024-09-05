@@ -188,6 +188,18 @@ mainnet:
       - type: telegram
         url: http://t.me/HyperCent
 
+  free.babena:
+    symbol: BABE
+    name: BABE
+    description: Babena - First DEFI project on Kadena
+    img: img/babena-logo.svg
+    color: "#ffcc4d"
+    totalSupply: 12967695
+    precision: 12
+    socials:
+      - type: website
+        url: https://babena.finance
+
   kdlaunch.token:
     symbol: KDL
     name: KDL

@@ -170,6 +170,24 @@ mainnet:
       - type: discord
         url: https://discord.gg/keVn3HDKZw
 
+  hypercent.prod-hype-coin:
+    symbol: HYPE
+    name: HYPE
+    description: Hypercent token
+    img: img/hypercent-crypto.svg
+    color: "#c40a8d"
+    totalSupply: 10000000
+    precision: 12
+    socials:
+      - type: website
+        url: https://hypercent.io/
+      - type: twitter
+        url: https://twitter.com/hypercentpad
+      - type: discord
+        url: https://discord.gg/dxVvdNhqaE
+      - type: telegram
+        url: http://t.me/HyperCent
+
   kdlaunch.token:
     symbol: KDL
     name: KDL

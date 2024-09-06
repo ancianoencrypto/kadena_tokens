@@ -170,6 +170,17 @@ mainnet:
       - type: discord
         url: https://discord.gg/keVn3HDKZw
 
+  free.wiza:
+      symbol: WIZA
+      name: WIZA
+      description: Wizards Arena
+      img: img/wizards.png
+      color: "#ed0404"
+      precision: 12
+      socials:
+        - type: website
+          url: https://www.wizardsarena.net
+
   hypercent.prod-hype-coin:
     symbol: HYPE
     name: HYPE

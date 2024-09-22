@@ -89,6 +89,7 @@ mainnet:
     img: img/kdx.svg
     color: "#ff5271"
     totalSupply: 900699352.80
+    circulatingSupply: 244,760,172.96
     precision: 12
     socials:
       - type: website

@@ -23,6 +23,7 @@ Submit a Pull Request:
 
 In the body of the PR, please include some information and rationale about the changes you're requesting.
 
+A Github workflow exists to help to verify the integrity of the database, fields and artworks. Don't forger to check the green ticks in your PR, and do the required changes when some checks don't pass.
 
 ## No disclaimer
 

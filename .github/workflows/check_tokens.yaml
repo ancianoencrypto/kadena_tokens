@@ -3,6 +3,7 @@ name: check_tokens
 on:
   push:
   workflow_dispatch:
+  pull_request:
 
 jobs:
   check_tokens:

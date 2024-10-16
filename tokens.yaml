@@ -248,6 +248,33 @@ mainnet:
       - type: discord
         url: https://discord.com/invite/GghUdhmk6z
 
+  n_2669414de420c0d40bbc3caa615e989eaba83d6f.highlander:
+    symbol: HLR
+    name: HLR
+    description:
+    img: img/uno.webp
+    totalSupply: 1
+    circulatingSupply: 1
+    color: "#3d3939"
+    precision: 12
+    socials:
+      - type: website
+        url: https://youtu.be/dQw4w9WgXcQ?si=h0SS4HbaWxLgw2IA
+  
+  n_c89f6bb915bf2eddf7683fdea9e40691c840f2b6.cwc:
+    symbol: CWC
+    name: CWC
+    description:
+    img: img/cwc.webp
+    totalSupply: 4000000
+    circulatingSupply: 3999540
+    color: "#a22726"
+    precision: 12
+    socials:
+      - type: website
+        url: guardiansofkadena.com
+      - type: twitter
+        url: https://x.com/GuardiansofKDA
 
 testnet:
   coin:

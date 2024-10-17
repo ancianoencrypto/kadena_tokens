@@ -292,6 +292,20 @@ testnet:
         url: https://discord.com/invite/kadena
       - type: github
         url: https://github.com/kadena-io
+n_5d119cc07ffd5efaef5c7feef9e878f34e3d4652.bro:
+    symbol: BRO
+    name: BRO
+    description: Token of the Brother's Telegram group
+    img: img/bro.png
+    color: "#af826a"
+    totalSupply: 100
+    circulatingSupply: 80
+    precision: 12
+    socials:
+        - type: website
+          url: https://bro.pink/
+        - type: twitter
+          url: https://x.com/thebrothersdao
 
 blacklist:
   - lago.USD2

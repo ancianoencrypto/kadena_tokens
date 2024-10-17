@@ -293,6 +293,7 @@ testnet:
       - type: github
         url: https://github.com/kadena-io
         
+
   n_5d119cc07ffd5efaef5c7feef9e878f34e3d4652.bro:
     symbol: BRO
     name: BRO
@@ -307,6 +308,17 @@ testnet:
         url: https://bro.pink/
       - type: twitter
         url: https://x.com/thebrothersdao
+
+  n_ff0f76ee90735fba124eba93a1c49423c75654b1.abc:
+    symbol: ABC
+    name: ABC
+    description: Test token on chain 18
+    img: img/abc.png
+    color: "#af826a"
+    totalSupply: 1000000
+    circulatingSupply: 1000000
+    precision: 12
+    socials: []
 
 blacklist:
   - lago.USD2

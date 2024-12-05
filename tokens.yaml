@@ -349,6 +349,17 @@ testnet:
       - type: github
         url: https://github.com/kadena-io
 
+    free.teckel:
+    symbol: TECKEL
+    name: TECKEL
+    description: The world's most lovable pup has found its home on Kadena
+    img: img/teckel.png
+    color: "#218dc5"
+    precision: 12
+    socials:
+      - type: twitter
+        url: https://x.com/kdateckel
+
 blacklist:
   - lago.USD2
   - lago.kwBTC
